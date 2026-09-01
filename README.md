@@ -123,5 +123,4 @@ else:
     st.write(detalhes["descricao"])
     
     st.markdown("**Características:**")
-    for c in detalhes["caracteristicas"]:
-        st.write(f"- {c}")
+    for c in detalhes["caracteristicas"]
