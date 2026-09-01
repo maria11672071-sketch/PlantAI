@@ -129,15 +129,7 @@ plantas = {
         "cores": ["Roxo", "Amarelo", "Rosa", "Branco"]
     },
 
-    "Rosa-do-deserto": {
-        "pasta": "imagens/rosa_do_deserto",
-        "descricao": (
-            "A rosa-do-deserto é uma planta ornamental conhecida pelo "
-            "caule engrossado e pelas flores coloridas. É bastante "
-            "cultivada em vasos e ambientes ensolarados."
-        ),
-        "caracteristicas": [
-            "Caule engrossado",
+             "Caule engrossado",
             "Folhas alongadas",
             "Flores em formato de estrela",
             "Muito utilizada como planta ornamental"
