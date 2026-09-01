@@ -1,3 +1,11 @@
+   "Rosa-do-deserto": {
+        "pasta": "imagens/rosa_do_deserto",
+        "descricao": (
+            "A rosa-do-deserto é uma planta ornamental conhecida pelo "
+            "caule engrossado e pelas flores coloridas. É bastante "
+            "cultivada em vasos e ambientes ensolarados."
+        ),
+        "caracteristicas": [
 # PlantAI
 
 Identificador visual de Rosa do deserto, Ypê e Lírio.
