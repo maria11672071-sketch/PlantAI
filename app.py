@@ -1,3 +1,15 @@
+st.divider()
+st.subheader("🌸 Plantas cadastradas")
+cols = st.columns(3)
+
+for col, (nome, dados) in zip(cols, PLANTAS.items()):
+    with col:
+        st.image(dados["arquivo"], caption=nome, use_container_width=True)
+        st.write(dados["cientifico"])
+
+st.info(
+    "Protótipo educacional: para identificação científica confiável, é necessário um conjunto maior de imagens e validação."
+)
 sefrom pathlib import Path
 import numpy as np
 from PIL import Image
